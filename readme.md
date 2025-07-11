@@ -144,3 +144,9 @@ Players must remain vigilant and strategic while navigating these hazards to sur
 
 ## Language
 **_Greedy Snake_** is written in C++ and CMake.
+
+## Video Demo
+<video controls>
+  <source src="assets/readme/gameplay01.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
