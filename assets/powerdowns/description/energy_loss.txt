@@ -1,0 +1,2 @@
+Energy Loss:
+Game speed -15

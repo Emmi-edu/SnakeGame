@@ -1,0 +1,2 @@
+Catalytic Reaction:
+Poison spawn rate +1
