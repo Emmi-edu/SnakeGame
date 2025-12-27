@@ -1,2 +1,0 @@
-Omnivore:
-Score per food +1

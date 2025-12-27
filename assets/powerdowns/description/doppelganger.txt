@@ -1,2 +1,0 @@
-Doppelgänger:
-Enemy snake per spawn +1

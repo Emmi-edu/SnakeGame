@@ -1,2 +1,0 @@
-Hot Zone:
-Enemy spawn rate +1
