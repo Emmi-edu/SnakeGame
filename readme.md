@@ -78,8 +78,8 @@ they will level up, triggering the display of the upgrade screen.
 #### Selecting Upgrades: 
 Players can choose from three groups of upgrade,
 each contains a positive and a negative effect.
-One enhance their snake's abilities, 
-while one intensify the hazards.
+One enhance their snake's abilities, such as gaining more points from food, 
+while one intensify the hazards, like spawning poison gas more frequently.
 After that, the score required for future upgrades is increased.
 
 #### Choose Upgrades:
@@ -103,12 +103,12 @@ Colliding with these walls results in immediate loss.
 
 #### Fog of War
 The map is enveloped in fog of war, 
-obscuring visibility and preventing players from seeing hazards.
+obscuring visibility and preventing players from seeing foods and hazards.
 Players can only reveal tiles that they have explored,
 adding an element of strategy to navigation.
 
 #### Self-Collision
-Players must avoid biting their own tail. 
+Players must avoid biting their own tail like an ouroboros. 
 If the snake collides with itself, 
 it results in instant defeat.
 
@@ -120,7 +120,7 @@ Poison gas can appear randomly across the map.
 The size of the gas clouds varies based on the length of the snake.
 - **Effects:** 
 If the snake remains in the poison gas, it will lose length for each tick. 
-If the snake's length is insufficient, this will lead to an instant kill.
+If the snake's length is insufficient, the snake will suffocate.
 - **Duration:** 
 Poison gas clouds will dissipate over time, creating temporary hazards.
 
